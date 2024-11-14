@@ -1,0 +1,5 @@
+*.dat
+!a.dat
+
+#exclude a directiry
+results/
